@@ -1,10 +1,6 @@
-# bf
+# Brainf**k Interpreter In Clojure
 
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
+My attempt at writing a brainf**k interpreter in clojure.
 
 ## License
 
